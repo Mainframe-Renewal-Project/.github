@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250mm"
+   height="150mm"
+   viewBox="0 0 250 150"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="banner.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3266964"
+     inkscape:cx="751.49068"
+     inkscape:cy="318.83707"
+     inkscape:window-width="3440"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <rect
+     style="fill:#ededed;fill-opacity:1;stroke-width:0.56391"
+     id="rect8"
+     width="248.68947"
+     height="148.5755"
+     x="0.79771811"
+     y="0.99715316"
+     rx="2.6645298"
+     inkscape:label="background"
+     sodipodi:insensitive="true" />
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke-width:0.243674"
+     id="rect9"
+     width="85.156693"
+     height="21.73789"
+     x="2.7920198"
+     y="2.792022"
+     rx="3.1282051"
+     inkscape:label="Slogan background"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="4.1880331"
+       y="18.945868"
+       id="text1"
+       inkscape:label="Slogan"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';fill:#3eddc8;fill-opacity:1;stroke-width:0.264583"
+         x="4.1880331"
+         y="18.945868"
+         id="tspan2">Let's make</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+         x="4.1880331"
+         y="40.173222"
+         id="tspan3">mainframe</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+         x="4.1880331"
+         y="61.400574"
+         id="tspan4">security</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+         x="4.1880331"
+         y="82.62793"
+         id="tspan5">accessible</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
+         x="4.1880331"
+         y="103.85529"
+         id="tspan6">for all_</tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="key"
+       transform="translate(89.557403,-31.85272)">
+      <rect
+         style="fill:#fadc0d;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6"
+         width="24.558807"
+         height="22.191694"
+         x="75.269028"
+         y="67.295891"
+         rx="2"
+         ry="2" />
+      <rect
+         style="fill:none;stroke:#0c0f0a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="50"
+         height="50"
+         x="74.182266"
+         y="40.659523"
+         rx="2"
+         ry="2" />
+      <path
+         style="fill:none;stroke:#0c0f0a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 99.424481,40.805065 74.599635,65.62991 H 99.42448 v 24.453299"
+         id="path1" />
+      <path
+         style="font-weight:bold;font-size:25.4px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';stroke:#0c0f0a;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 80.908792,84.621559 v -2.9718 l 6.6294,-7.442199 h -6.4008 v -2.921 h 10.7696 v 2.9464 l -6.6548,7.467599 h 6.8326 v 2.921 z"
+         id="text2"
+         aria-label="z" />
+      <rect
+         style="fill:#0c0f0a;fill-opacity:1;stroke:#0c0f0a;stroke-width:0.093233;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2"
+         width="4.9067669"
+         height="84.002701"
+         x="96.948143"
+         y="90.723755"
+         rx="0.43458501"
+         ry="0.50004029" />
+      <rect
+         style="fill:#0c0f0a;fill-opacity:1;stroke:#0c0f0a;stroke-width:0.0762665;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3"
+         width="7.309185"
+         height="22.921124"
+         x="99.676788"
+         y="147.51091"
+         rx="0.28868914"
+         ry="0.50370651" />
+      <rect
+         style="fill:#0c0f0a;fill-opacity:1;stroke:#0c0f0a;stroke-width:0.105605;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4"
+         width="14.894395"
+         height="6.324028"
+         x="104.91801"
+         y="147.52557"
+         rx="0.55811226"
+         ry="0.49955723" />
+      <rect
+         style="fill:#0c0f0a;fill-opacity:1;stroke:#0c0f0a;stroke-width:0.0967353;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4-5"
+         width="12.480069"
+         height="6.3328972"
+         x="104.91358"
+         y="155.88708"
+         rx="0.4676443"
+         ry="0.50025791" />
+      <rect
+         style="fill:#0c0f0a;fill-opacity:1;stroke:#0c0f0a;stroke-width:0.105605;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4-5-2"
+         width="14.894395"
+         height="6.3240275"
+         x="104.91801"
+         y="164.09941"
+         rx="0.5581122"
+         ry="0.49955726" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="3.7891767"
+       y="145.1852"
+       id="text7"
+       inkscape:label="MRP"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="3.7891767"
+         y="145.1852">Mainframe Renewal Project</tspan></text>
+  </g>
+</svg>
