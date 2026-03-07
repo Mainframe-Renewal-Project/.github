@@ -1,3 +1,5 @@
 # Mainframe Renewal Project
 
-The Mainframe Renewal Project is the home of Security API for RACF (SEAR) and other tooling to make mainframe security easier and more modern.
+![MRP banner](https://github.com/Mainframe-Renewal-Project/.github/blob/main/banner.png)
+
+The Mainframe Renewal Project is the home of Security API for RACF (SEAR) and other projects to make mainframe security accessible to everyone.
